@@ -1,0 +1,11 @@
+E:\DuAnDESTOP\QuanLyDiemRenLuyen\bin\Debug\QuanLyDiemRenLuyen.exe.config
+E:\DuAnDESTOP\QuanLyDiemRenLuyen\bin\Debug\QuanLyDiemRenLuyen.exe
+E:\DuAnDESTOP\QuanLyDiemRenLuyen\bin\Debug\QuanLyDiemRenLuyen.pdb
+E:\DuAnDESTOP\QuanLyDiemRenLuyen\obj\Debug\QuanLyDiemRenLuyen.csproj.AssemblyReference.cache
+E:\DuAnDESTOP\QuanLyDiemRenLuyen\obj\Debug\QuanLyDiemRenLuyen.Properties.Resources.resources
+E:\DuAnDESTOP\QuanLyDiemRenLuyen\obj\Debug\QuanLyDiemRenLuyen.QuanLySinhVien.resources
+E:\DuAnDESTOP\QuanLyDiemRenLuyen\obj\Debug\QuanLyDiemRenLuyen.csproj.GenerateResource.cache
+E:\DuAnDESTOP\QuanLyDiemRenLuyen\obj\Debug\QuanLyDiemRenLuyen.csproj.CoreCompileInputs.cache
+E:\DuAnDESTOP\QuanLyDiemRenLuyen\obj\Debug\QuanLyDiemRenLuyen.exe
+E:\DuAnDESTOP\QuanLyDiemRenLuyen\obj\Debug\QuanLyDiemRenLuyen.pdb
+E:\DuAnDESTOP\QuanLyDiemRenLuyen\obj\Debug\QuanLyDiemRenLuyen.Login.resources
